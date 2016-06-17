@@ -9,8 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <!--<gcc.bridge.version>0.8.1895</gcc.bridge.version>-->
-        <gcc.bridge.version>0.9.0-SNAPSHOT</gcc.bridge.version>
+        <gcc.bridge.version>0.8.2090</gcc.bridge.version>
     </properties>
 
 
