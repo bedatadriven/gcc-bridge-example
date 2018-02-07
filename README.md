@@ -18,14 +18,14 @@ The C sources are taken as an example from the GNU R nmath library.
 
 ## Requirements
 
-The GCC-Bridge maven plugin requires GCC 4.6 to be installed to compile C and Fortran Sources. 
+The GCC-Bridge maven plugin requires GCC 4.7 to be installed to compile C and Fortran Sources. 
 
-You will also need Java  Apache Maven 3.x.
+You will also need Java 1.8 and Apache Maven 3.x.
 
 On Ubuntu, you can install all required tools via `apt-get`:
 
 ```
-sudo apt-get install maven gcc-4.6 gcc-4.6-plugin-dev gfortran-4.6 gcc-4.6.multilib
+sudo apt-get install maven gcc-4.7 gcc-4.7-plugin-dev gfortran-4.7 gcc-4.7.multilib
 ```
 
 ## Compiling
