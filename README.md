@@ -25,7 +25,7 @@ You will also need Java 1.8 and Apache Maven 3.x.
 On Ubuntu, you can install all required tools via `apt-get`:
 
 ```
-sudo apt-get install maven gcc-4.7 gcc-4.7-plugin-dev gfortran-4.7 gcc-4.7.multilib
+sudo apt-get install maven gcc-4.7 gcc-4.7-plugin-dev gfortran-4.7 gcc-4.7.multilib g++-4.7
 ```
 
 ## Compiling
